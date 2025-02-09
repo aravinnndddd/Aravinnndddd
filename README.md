@@ -16,7 +16,7 @@
 
 ### 📫 Connect with Me  
 🌐 **Portfolio:** [Portfolio Link](https://aravinnndddd.github.io/Aravind-portfolio-v1/)  
-📩 **Email:** [Email](aravinnndddd73@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aravinnndddd)
 
 ---
 
