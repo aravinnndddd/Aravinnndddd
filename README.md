@@ -27,7 +27,7 @@
 
 ### 🔗 Connect with Me  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aravinnndddd)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)]([https://yourportfolio.com](https://aravinnndddd.github.io/Aravind-portfolio-v1/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)]([https://yourportfolio.com](https://aravinnndddd.github.io/Aravind-portfolio-v1/)
 
 ---
 
