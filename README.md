@@ -9,7 +9,7 @@
 ---
 
 ### 🛠 Tech Stack 
-💻 **Languages:** Python, JavaScript, HTML, CSS  
+💻 **Languages:** Python, C, JavaScript, HTML, CSS  
 🛠 **Tools:** Git, GitHub, VS Code  
 
 ---
