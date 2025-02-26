@@ -39,6 +39,11 @@
 
 ---
 
+### 👀 Profile visits
+![Profile Views](https://komarev.com/ghpvc/?username=elementaryrock&color=F85D7F&style=for-the-badge)
+
+---
+
 ### ✨ Fun Fact  
 "Code and art are just two sides of the same coin."
 
