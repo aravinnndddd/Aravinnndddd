@@ -28,7 +28,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ---
 ### 🔗 Connect with Me  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aravinnndddd)
+[![Instagram](https://img.shields.io/badge/Instagram-%23f8392b.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aravinnndddd)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://aravinnndddd.github.io/Aravind-portfolio-v1/)
 
 ---
