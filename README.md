@@ -40,7 +40,7 @@
 ---
 
 ### 👀 Profile visits
-![Profile Views](https://komarev.com/ghpvc/?username=aravinnndddd&color=F85D7F&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=aravinnndddd&color=16537E&style=for-the-badge)
 
 ---
 
