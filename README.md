@@ -34,7 +34,8 @@
 ---
 
 ### 📊 GitHub Stats  
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aravinnndddd&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aravinnndddd&layout=compact&theme=tokyonight)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aravinnndddd&theme=tokyonight" alt="aravind" /></p>
 ---
 
