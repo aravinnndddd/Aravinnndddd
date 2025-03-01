@@ -39,10 +39,6 @@
 ### 👀 Profile visits
 ![Profile Views](https://komarev.com/ghpvc/?username=aravinnndddd&color=16537E&style=for-the-badge)
 
----
-
-### Fun Fact  :)
-"Code and art are just two sides of the same coin."
 
 ---
 
