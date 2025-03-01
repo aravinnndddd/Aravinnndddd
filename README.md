@@ -3,11 +3,11 @@
 
 ---
 
-### 🚀 About Me
-- 🎓 Computer Science Engineering Student  
-- 🖥️ Passionate about Web Development & AI  
-- 🎨 Self-taught Artist
-- 📌 Currently learning JavaScript, React and Node  
+### About Me :)
+- Computer Science Engineering Student  
+- Passionate about Web Development & AI  
+- Self-taught Artist
+- Currently learning JavaScript, React and Node  
 
 
 ---
@@ -44,15 +44,15 @@
 
 ---
 
-### ✨ Fun Fact  
+### Fun Fact  :)
 "Code and art are just two sides of the same coin."
 
 ---
 
-🚀 **Let's build something awesome together!**  
+ **Let's build something awesome together!**  :)
 
 
 ---
 
-⭐ **Feel free to explore my repositories and projects! Let's connect and collaborate.** 🚀  
+ **Feel free to explore my repositories and projects! Let's connect and collaborate.** :)
 
