@@ -11,7 +11,7 @@
 
 
 ---
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aravinnndddd" alt="aravind" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aravinnndddd&theme=tokyonight" alt="aravind" /></a> </p>
 ---
 
 ### 🛠️ Language and tools  
