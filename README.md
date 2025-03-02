@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Aravind 👋</h1>
-<h3 align="center">A passionate developer and artist</h3>
+<h3 align="center">A passionate Frontend developer and artist</h3>
 
 ---
 
@@ -10,6 +10,8 @@
 - Currently learning JavaScript, React and Node  
 
 
+---
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aravinnndddd" alt="aravind" /></a> </p>
 ---
 
 ### 🛠️ Language and tools  
