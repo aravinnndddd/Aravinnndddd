@@ -12,9 +12,9 @@
 
 ---
 
-<p>
+
   <img src="https://github-profile-trophy.vercel.app/?username=aravinnndddd&column=10&theme=gruvbox&no-frame=true"/>
-</p>
+
 
 ---
 
