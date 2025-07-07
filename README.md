@@ -54,4 +54,7 @@
 ---
 
  **Feel free to explore my repositories and projects! Let's connect and collaborate.** :)
+### 🐍 Terminal Snake — Eating My Commits Since Day One
+
+<img src="https://raw.githubusercontent.com/akshay-k-a-dev/aravinnndddd/output/snake.svg" alt="Snake animation" />
 
