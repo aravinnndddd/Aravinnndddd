@@ -37,7 +37,8 @@
 ### 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aravinnndddd&show_icons=true&theme=tokyonight)  
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=aravinnndddd&show_icons=true&locale=en&layout=compact&theme=tokyonight)<br/>
-![]({https://github-readme-streak-stats.herokuapp.com/?user=aravinnndddd&theme=tokyonight)
+
+![](https://nirzak-streak-stats.vercel.app/?user=aravinnndddd&theme=tokyonight&hide_border=false)<br/>
 
 
 
