@@ -7,7 +7,7 @@
 - Computer Science Engineering Student  
 - Passionate about Web Development & AI  
 - Self-taught Artist
-- Currently learning MERN 
+
 
 
 
