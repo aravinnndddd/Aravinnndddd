@@ -5,7 +5,7 @@
 
 ### About Me :)
 - Computer Science Engineering Student  
-- Passionate about Web Development & AI  
+- Web developer
 - Self-taught Artist
 
 
