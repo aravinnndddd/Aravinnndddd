@@ -35,9 +35,9 @@
 ---
 
 ### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aravinnndddd&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aravinnndddd&show_icons=true&theme=tokyonight&hide_border=true)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=aravinnndddd&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api/top-langs?username=aravinnndddd&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=aravinnndddd&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
