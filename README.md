@@ -44,9 +44,13 @@
 
 ---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aravinnndddd&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aravinnndddd&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aravinnndddd&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aravinnndddd&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aravinnndddd&theme=radical&row=1&column=6" /> </br>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aravinnndddd&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+</p>
+
+
 
 ---
 
