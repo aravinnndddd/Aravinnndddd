@@ -39,7 +39,7 @@
 ### 🔗 Let's Connect
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aravinnndddd)
-[![Portfolio](https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://aravind-portfolio-v2.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://aravind-p.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aravinnndddd/) <!-- Add if available -->
 
 ---
