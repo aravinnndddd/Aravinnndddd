@@ -1,70 +1,202 @@
-<h1 align="center">Hey there! 👋 I'm Aravind</h1>
-<h3 align="center">🎨 Artist by passion | 👨‍💻 Frontend Developer by choice | 🚀 Always learning</h3>
+<h1 align="center">Hey 👋, I'm Aravind P</h1>
+
+<h3 align="center">
+Full Stack Developer • Open Source Enthusiast • Community Builder
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Frontend+Dev+%7C+React+%7C+Tailwind+CSS;Always+Learning-new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Products+That+People+Actually+Use;React+%7C+Next.js+%7C+TypeScript+%7C+Firebase;Open+Source+Contributor;GDG+on+Campus+Organizer;Always+Learning+Something+New" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/aravinnndddd">
+    <img src="https://komarev.com/ghpvc/?username=aravinnndddd&label=Profile+Views&color=0e75b6&style=flat" />
+  </a>
+  <a href="https://github.com/aravinnndddd?tab=followers">
+    <img src="https://img.shields.io/github/followers/aravinnndddd?label=Followers&style=flat&color=blue" />
+  </a>
 </p>
 
 ---
 
-### 🌟 About Me
-- 🎓 Computer Science Engineering Student  
-- 💻 Passionate Web Developer (React ⚛️ + Tailwind 💨)
-- ✍️ Self-taught Artist (Pencil sketches and digital art)
-- 🎯 Big dreamer. Consistent learner. Team player.
+# 💫 About Me
+
+```ts
+const aravind = {
+    location: "Kerala, India 🇮🇳",
+
+    education: "B.Tech Computer Science",
+
+    currentFocus: [
+        "Full Stack Web Development",
+        "AI Applications",
+        "Developer Tools",
+        "Open Source"
+    ],
+
+    communities: [
+        "GDG on Campus Organizer",
+        "Hackathon Organizer"
+    ],
+
+    currentlyBuilding: [
+        "MakeQR",
+        "CEP Hall",
+        "Community Platforms"
+    ],
+
+    funFact: "I enjoy turning random ideas into real products 🚀"
+}
+```
+
+- 💻 Passionate about building modern web applications
+- 🚀 Love creating products that solve real problems
+- 🤝 Open Source Contributor
+- 🎨 UI/UX enthusiast who loves clean interfaces
+- 🌱 Currently exploring AI, Agentic Workflows & System Design
+- ⚡ Always learning, always shipping
 
 ---
 
-### 🛠️ Tech Stack & Tools I Use
+# 🛠 Tech Stack
 
-#### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+### Languages
 
-#### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### Backend & Dev Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 🔗 Let's Connect
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aravinnndddd)
-[![Portfolio](https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://aravind-p.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aravinnndddd/) <!-- Add if available -->
-
----
-# 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aravinnndddd&theme=radical" />
-  <img src="https://github-profile-trophy.vercel.app/?username=aravinnndddd&theme=radical&row=1&column=6" /> </br>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aravinnndddd&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp" />
 </p>
 
+### Frontend
 
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite,threejs" />
+</p>
 
----
+### Backend
 
-### 👀 Profile Visits  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aravinnndddd&color=16537E&style=for-the-badge" alt="Profile Views"/>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,npm,postman" />
 </p>
 
 ---
- **Let's build something awesome together!**  :)
 
+# 🚀 Featured Projects
+
+## 🔹 MakeQR
+
+A modern QR Code Generator with customization, logo support, APIs and developer tools.
+
+**Tech**
+- Next.js
+- TypeScript
+- Firebase
+- QR Code Styling
 
 ---
 
- **Feel free to explore my repositories and projects! Let's connect and collaborate.** 
+## 🔹 CEP Hall
+
+Centralized Hall & Resource Booking System for colleges.
+
+Features
+
+- Resource Booking
+- Availability Calendar
+- Faculty Approval
+- Event Management
 
 ---
+
+## 🔹 Community Platform
+
+An all-in-one platform to manage communities, events, registrations and announcements.
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aravinnndddd&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aravinnndddd&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aravinnndddd&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravinnndddd&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aravinnndddd&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- 🤖 Artificial Intelligence
+- 🧠 LLM Applications
+- ☁️ Cloud Technologies
+- 🏗️ System Design
+- ⚙️ Backend Architecture
+
+---
+
+# 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://aravind-p.vercel.app">
+<img src="https://skillicons.dev/icons?i=vercel"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aravinnndddd/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://instagram.com/aravinnndddd">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="mailto:yourmail@example.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💭 Quote
+
+> **"Code. Learn. Build. Repeat."**
+
+---
+
+<p align="center">
+
+### Thanks for visiting ❤️
+
+If you like my work, consider ⭐ starring a repository or connecting with me!
+
+</p>
