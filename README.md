@@ -167,7 +167,7 @@ An all-in-one platform to manage communities, events, registrations and announce
 
 <p align="left">
 
-<a href="https://aravind-p.vercel.app">
+<a href="https://aravind-p.me">
 <img src="https://skillicons.dev/icons?i=vercel"/>
 </a>
 
